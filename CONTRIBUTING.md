@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Welcome to Virtual Coffee's contributing guide! Thank you so much for considering contributing to this repository 💙.
+Welcome to the contributing guide for Virtual Coffee's preptember practice repo! Thank you so much for considering contributing to this repository 💙.
 
 We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very seriously, and all contributors must abide by it. Let’s treat each other with respect, and remember, we are all people who care and are trying. If you believe someone has violated the Code of Conduct, please fill out our [CoC Violation Form](https://virtualcoffee.io/report-coc-violation/), which you can do anonymously.
 

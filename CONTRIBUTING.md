@@ -27,7 +27,7 @@ We recommend you work on the changes in your local environment because most of t
 
 ### 1. Fork this repository
 
-Click the `fork` button at the top of the page. <br>
+Click the `fork` button at the top of the front page. <br>
 Forking is a process to create a copy of this repository in your GitHub account. You always want to remember to fork a repository before cloning it.
 
 ### 2. Clone the repository in your local machine
@@ -36,7 +36,7 @@ Clone a repository means copying the remote repository into your local machine.
 
 #### On GitHub
 
-1. Click your profile picture on the right top on GitHub.
+1. Click your profile picture on the right top.
 2. Click "Your repositories".
 3. Open the forked repo by clicking on it.
 4. Click the green `<> Code` button.

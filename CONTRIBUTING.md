@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Welcome to the contributing guide for Virtual Coffee's preptember practice repo! Thank you so much for considering contributing to this repository 💙.
+Welcome to the contributing guide for Virtual Coffee's Preptember repo! Thank you so much for considering contributing to this repository 💙.
 
 We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very seriously, and all contributors must abide by it. Let’s treat each other with respect, and remember, we are all people who care and are trying. If you believe someone has violated the Code of Conduct, please fill out our [CoC Violation Form](https://virtualcoffee.io/report-coc-violation/), which you can do anonymously.
 
@@ -55,7 +55,7 @@ Clone a repository means copying the remote repository into your local machine.
 2. Navigate to the directory where your local repository lives.
 
    ```bash
-   cd oss-practice-repo
+   cd vc-preptember
    ```
 
 Remember that you always want to work on and push your changes into the forked repository, not the original one.

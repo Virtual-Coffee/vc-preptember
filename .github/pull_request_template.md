@@ -10,7 +10,7 @@ Check the item(s) that applies.
 
 ### If your type of contribution is Repositories List, check items in the repository checklist below that apply.
 
-⚠️ *We only accept PR with the most checks on the list*
+⚠️ *We only accept PRs where most of the items are checked*
 
 - [ ] Relevant name
 - [ ] Description

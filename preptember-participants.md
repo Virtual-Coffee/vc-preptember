@@ -6,3 +6,4 @@
 
 - [Ayu Adiati](https://github.com/adiati98) | Latte macchiato
 - [Dominic Duffin](https://github.com/dominicduffin1) | Hot chocolate _without_ cream and marshmallows
+- [BekahHW](https://github.com/bekahhw) | Coffee with a splash of half and half

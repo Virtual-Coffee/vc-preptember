@@ -6,3 +6,4 @@
 
 - [Ayu Adiati](https://github.com/adiati98) | Latte macchiato
 - [Dominic Duffin](https://github.com/dominicduffin1) | Hot chocolate _without_ cream and marshmallows
+- [Michael Jolley](http://github.com/michaeljolley) | [Sloth Dispelling Breakfast Blend](https://madpriestcoffee.com/collections/coffee/products/sloth-dispelling-breakfast-blend) from Mad Priest Coffee (Black)

@@ -7,3 +7,4 @@
 - [Ayu Adiati](https://github.com/adiati98) | Latte macchiato
 - [Dominic Duffin](https://github.com/dominicduffin1) | Hot chocolate _without_ cream and marshmallows
 - [Christine Belzie](https://github.com/CBID2) | A nice cold Sprite and a cup of hot tea with no sugar
+- [David Akim](https://github.com/david-001) | Any cold drink e.g. Iced coffee or iced tea

@@ -2,6 +2,8 @@
 
 This is a special repository for **Virtual Coffee members** to prepare themselves for Hacktoberfest by practicing open source and listing VC-verified repositories we can recommend for Hacktoberfest.
 
+## 📢 Only PRs from existing Virtual Coffee members will be accepted.
+
 You can watch our video walkthrough to learn more about this repository and how to contribute:
 
 https://github.com/dominicduffin1/vc-preptember/assets/26224873/4fa3e1b3-bd8a-4ce8-9329-044c30e80fe8

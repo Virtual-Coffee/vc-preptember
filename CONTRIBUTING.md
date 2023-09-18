@@ -2,7 +2,7 @@
 
 ---
 
-**Note — only existing Virtual Coffee members can contribute to this repository.**
+## 📢 Only PRs from existing Virtual Coffee members will be accepted.
 
 ---
 

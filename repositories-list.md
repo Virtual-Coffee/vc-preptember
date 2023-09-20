@@ -30,3 +30,4 @@ Templates for making issues and pull requests.
 - [Intro to Open Source Course](https://github.com/open-sauced/intro/)
 - [OpenSauced Guestbook](https://github.com/open-sauced/guestbook)
 - [OpenSauced Pizza-Verse](https://github.com/open-sauced/pizza-verse/blob/main/README.md)
+- [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)

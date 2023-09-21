@@ -10,3 +10,4 @@
 - [Christine Belzie](https://github.com/CBID2) | A nice cold Sprite and a cup of hot tea with no sugar
 - [David Akim](https://github.com/david-001) | Any cold drink e.g. Iced coffee or iced tea
 - [Teri Eyenike](https://github.com/terieyenike) | Cafe au Lait
+- [Adam Abundis](https://github.com/abuna1985) | Medium or dark roast coffee with whipped Italian crème creamer and cinnamon

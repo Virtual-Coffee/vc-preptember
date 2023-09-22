@@ -1,3 +1,7 @@
+---
+## 📢 Only PRs from existing Virtual Coffee members will be accepted.
+---
+
 ## Type of Contribution
 
 Check the item(s) that applies.
@@ -10,7 +14,7 @@ Check the item(s) that applies.
 
 ### If your type of contribution is Repositories List, check items in the repository checklist below that apply.
 
-⚠️ *We only accept PRs where most of the items are checked*
+⚠️ _We only accept PRs where most of the items are checked_
 
 - [ ] Relevant name
 - [ ] Description

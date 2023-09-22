@@ -26,3 +26,8 @@ Templates for making issues and pull requests.
 - [Virtual Coffee / podcast transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
 - [freeCodeCamp's Developer Quiz Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 - [EddieHubCommunity / BioDrop](https://github.com/EddieHubCommunity/BioDrop)
+- [OpenSauced Docs](https://github.com/docs)
+- [Intro to Open Source Course](https://github.com/open-sauced/intro/)
+- [OpenSauced Guestbook](https://github.com/open-sauced/guestbook)
+- [OpenSauced Pizza-Verse](https://github.com/open-sauced/pizza-verse/blob/main/README.md)
+- [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)

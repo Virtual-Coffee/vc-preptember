@@ -1,6 +1,8 @@
 # Welcome Preptember!
 
-This is a repository for Virtual Coffee members to prepare themselves for Hacktoberfest by practicing open source and listing VC-verified repositories we can recommend for Hacktoberfest.
+This is a special repository for **Virtual Coffee members** to prepare themselves for Hacktoberfest by practicing open source and listing VC-verified repositories we can recommend for Hacktoberfest.
+
+## 📢 Only PRs from existing Virtual Coffee members will be accepted.
 
 You can watch our video walkthrough to learn more about this repository and how to contribute:
 

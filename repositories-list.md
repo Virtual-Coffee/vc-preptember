@@ -33,3 +33,4 @@ Templates for making issues and pull requests.
 - [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)
 - [Forem](https://github.com/forem/forem)
 - [Django link-in-bio tool](https://github.com/Terieyenike/linktree)
+- [Classic Memory Game](https://github.com/cmcrawford2/memory-game)

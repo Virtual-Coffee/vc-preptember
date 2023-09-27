@@ -34,3 +34,4 @@ Templates for making issues and pull requests.
 - [Hacktoberfest HOWTO / Hugo static site](https://github.com/hacktoberfesthowto/howto-blog)
 - [Forem](https://github.com/forem/forem)
 - [Django link-in-bio tool](https://github.com/Terieyenike/linktree)
+- [Classic Memory Game](https://github.com/cmcrawford2/memory-game)

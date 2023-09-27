@@ -12,6 +12,7 @@
 - [David Akim](https://github.com/david-001) | Any cold drink e.g. Iced coffee or iced tea
 - [Teri Eyenike](https://github.com/terieyenike) | Cafe au Lait
 - [Adam Abundis](https://github.com/abuna1985) | Medium or dark roast coffee with whipped Italian crème creamer and cinnamon
+- [Ross Larson](https://github.com/zo0o0ot) | Flavored sparkling water, like Limoncello La Croix
 - [Angie Rodriguez](https://github.com/ARodriguezHacks) | Simple black medium roast, no cream or sugar
 - [Anshuman Sathua](https://github.com/anshu-21) | Red honey tea
 - [Cris Crawford](https://github.com/cmcrawford2) | Black coffee, slightly weak

@@ -31,5 +31,6 @@ Templates for making issues and pull requests.
 - [OpenSauced Guestbook](https://github.com/open-sauced/guestbook)
 - [OpenSauced Pizza-Verse](https://github.com/open-sauced/pizza-verse/blob/main/README.md)
 - [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)
+- [Hacktoberfest HOWTO / Hugo static site](https://github.com/hacktoberfesthowto/howto-blog)
 - [Forem](https://github.com/forem/forem)
 - [Django link-in-bio tool](https://github.com/Terieyenike/linktree)

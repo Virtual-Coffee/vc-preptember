@@ -18,3 +18,4 @@
 - [Cris Crawford](https://github.com/cmcrawford2) | Black coffee, slightly weak
 - [Tammy Miller](https://github.com/tgmiller5) | Green Tea
 - [Christina Loiacono](https://github.com/christina-ml) | Pumpkin Spice Latte
+- [Satoshi Shirosaka](https://github.com/Satoshi-Sh) | Kombucha

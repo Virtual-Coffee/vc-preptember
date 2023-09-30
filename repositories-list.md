@@ -35,3 +35,4 @@ Templates for making issues and pull requests.
 - [Forem](https://github.com/forem/forem)
 - [Django link-in-bio tool](https://github.com/Terieyenike/linktree)
 - [Classic Memory Game](https://github.com/cmcrawford2/memory-game)
+- [Tiny Troves of Dev Wisdom](https://github.com/TarynMcMillan/Tiny-Troves-of-Dev-Wisdom)

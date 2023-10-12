@@ -32,7 +32,6 @@ Templates for making issues and pull requests.
 - [MDN Web Docs/content](https://github.com/mdn/content)
 - [OpenSauced/docs](https://github.com/open-sauced/docs)
 - [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-- [OpenSauced Docs](https://github.com/open-sauced/docs)
 - [Intro to Open Source Course](https://github.com/open-sauced/intro/)
 - [OpenSauced Guestbook](https://github.com/open-sauced/guestbook)
 - [OpenSauced Pizza-Verse](https://github.com/open-sauced/pizza-verse)

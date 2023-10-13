@@ -42,4 +42,4 @@ Templates for making issues and pull requests.
 - [Classic Memory Game](https://github.com/cmcrawford2/memory-game)
 - [Tiny Troves of Dev Wisdom](https://github.com/TarynMcMillan/Tiny-Troves-of-Dev-Wisdom)
 - [Elm RPG Session](https://github.com/tkshill/rpg-session/)
-
+- [SheSharp / Knowledge Hub](https://github.com/shesharpnl/knowledge-hub)

@@ -175,10 +175,14 @@ You might encounter merge conflicts. When you encounter merge conflicts, you nee
 
 Merge conflicts usually occur when changes are on the same line(s), in the same file(s), from 2 different branches. It is common to encounter merge conflicts when contributing to open source.
 
-Resources about merge conflicts:
+### Resources
 
 - Virtual Coffee's Git & GitHub 101 guide to [resolving merge conflicts](https://virtualcoffee.io/resources/developer-resources/open-source/git-101#resolve-merge-conflicts).
 - [Resolving a merge conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).
+
+### Walkthrough Video
+
+https://github.com/Virtual-Coffee/vc-preptember/assets/45172775/55a4e380-7b8b-4a36-a843-95237e66d4db
 
 You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you 💙!
 

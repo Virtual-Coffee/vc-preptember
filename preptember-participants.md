@@ -22,3 +22,4 @@
 - [David Salgado](https://github.com/davidgsalgado) | Black Coffe (Plain)
 - [Kirk Shillingford](https://github.com/tkshill) | Ice Cold Black Coffee 
 - [Brenna Hettler](https://github.com/brennakh) | Matcha with oat milk
+- [JoyBoy](https://github.com/joyboyid) | V60 Arabica

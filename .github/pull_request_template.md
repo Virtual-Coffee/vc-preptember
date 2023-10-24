@@ -4,15 +4,21 @@
 
 ## Type of Contribution
 
-Check the item(s) that applies.
-
-<!-- For example:
-- [x] 🌱 Practice Open Source -->
-
-- [ ] 🌱 Practice Open Source
+- [ ] 🌱 Practice Open Source     
 - [ ] 📃 Repositories List
 
-### If your type of contribution is Repositories List, check items in the repository checklist below that apply.
+My Slack handle:
+
+<!-- Check the item(s) that applies. And please provide your Slack handle at Virtual Coffee for us to confirm. -->
+
+<!-- For example:
+- [x] 🌱 Practice Open Source 
+- [ ] 📃 Repositories List
+
+My Slack handle: Ayu
+-->
+
+### If your type of contribution is 📃 Repositories List, check items in the repository checklist below that apply.
 
 ⚠️ _We only accept PRs where most of the items are checked_
 

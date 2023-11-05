@@ -2,7 +2,11 @@
 
 This is a special repository for **Virtual Coffee members** to prepare themselves for Hacktoberfest by practicing open source and listing VC-verified repositories we can recommend for Hacktoberfest.
 
-## 📢 Only PRs from existing Virtual Coffee members will be accepted.
+---
+
+📢 **Only PRs from existing Virtual Coffee members will be accepted.**
+
+---
 
 You can watch our video walkthrough to learn more about this repository and how to contribute:
 
@@ -14,9 +18,13 @@ See our [contributing guide](CONTRIBUTING.md) for detailed information and instr
 
 ## 💭 Do you have questions?
 
-Whenever you need help, you can always ask for it in the `#open-source` or `#help-and-pairing` channels in Slack. You can read our [guide on how to ask questions](https://virtualcoffee.io/resources/developer-resources/developer-tips/asking-coding-questions).
+Whenever you need help, you can ask for it in the `#open-source` or `#help-and-pairing` channels in Slack. You can also read our [guide on how to ask questions](https://virtualcoffee.io/resources/developer-resources/developer-tips/asking-coding-questions).
 
 We're here to help you! 💙
+
+## ☕ Join Virtual Coffee Community
+
+If you're interested in joining our community, you can learn about us through [our website](https://virtualcoffee.io/) and [join the waitlist](https://virtualcoffee.io/join).
 
 ## ⚖️ License
 

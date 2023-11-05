@@ -2,7 +2,7 @@
 
 ---
 
-## 📢 Only PRs from existing Virtual Coffee members will be accepted.
+📢 **Only PRs from existing Virtual Coffee members will be accepted.**
 
 ---
 

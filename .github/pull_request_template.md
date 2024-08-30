@@ -17,11 +17,13 @@ To link a pull request to an issue to show that a fix is in progress and to auto
 
 ## Type of Contribution
 
-<!-- Check the item(s) that applies. -->
+<!--
 
-<!-- For example:
+Check the item(s) that applies. For example:
+
 - [x] 🌱 Practice Open Source
 - [ ] 📃 Repositories List
+
 -->
 
 - [ ] 🌱 Practice Open Source

@@ -5,6 +5,16 @@
 > [!Warning]
 > Only PRs from existing Virtual Coffee members will be accepted.
 
+## Linked Issue
+
+<!--
+
+Please link to your issue number that you can find after your issue's title.
+
+To link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request, type the keyword "Closes" followed by a reference to the issue. For example, Closes #404.
+
+ -->
+
 ## Type of Contribution
 
 <!-- Check the item(s) that applies. -->

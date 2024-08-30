@@ -1,32 +1,32 @@
----
-## 📢 Only PRs from existing Virtual Coffee members will be accepted.
----
+## Slack Handle
+
+ <!-- Please provide your Slack handle at Virtual Coffee for us to confirm. -->
+
+> [!Warning]
+> Only PRs from existing Virtual Coffee members will be accepted.
 
 ## Type of Contribution
 
-- [ ] 🌱 Practice Open Source     
-- [ ] 📃 Repositories List
-
-My Slack handle:
-
-<!-- Check the item(s) that applies. And please provide your Slack handle at Virtual Coffee for us to confirm. -->
+<!-- Check the item(s) that applies. -->
 
 <!-- For example:
-- [x] 🌱 Practice Open Source 
+- [x] 🌱 Practice Open Source
 - [ ] 📃 Repositories List
-
-My Slack handle: Ayu
 -->
 
-### If your type of contribution is 📃 Repositories List, check items in the repository checklist below that apply.
+- [ ] 🌱 Practice Open Source
+- [ ] 📃 Repositories List
 
-⚠️ _We only accept PRs where most of the items are checked_
+<br>
+
+> [!NOTE]
+> If your type of contribution is 📃 **Repositories List**, check items in the repository checklist below that apply. We only accept PRs where most of the items are checked.
 
 - [ ] Relevant name
 - [ ] Description
 - [ ] Relevant tags
-- [ ] README.md file
-- [ ] CONTRIBUTIONS.md/CONTRIBUTING.md file
+- [ ] README file
+- [ ] CONTRIBUTING file
 - [ ] Open source license
 - [ ] Code of Conduct (COC)
 - [ ] Issue and Pull Request templates

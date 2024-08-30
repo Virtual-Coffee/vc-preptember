@@ -23,7 +23,7 @@ If you're new to open source, check out the resources below to help you familiar
 
 There are two types of contributions to this repo:
 
-1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite coffee (or any other drink you like!) to the `preptember-participants.md` file.
+1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite cake or snack to the `preptember-participants.md` file.
 
 2. 📃 **Repositories List** — Add the link to a repository(ies) you recommend for Hackoberfest to the `repositories-list.md` file _only_ after the repository meets our requirements — check our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist). You can always return and add more repositories here.
 

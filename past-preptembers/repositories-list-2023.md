@@ -1,3 +1,5 @@
+# Repositories List
+
 <!-- Before adding a repository to this list, make sure that it passes our repository checklist below -->
 
 <!--
@@ -19,8 +21,6 @@ Templates for making issues and pull requests.
  -->
 
  <!-- Please don't type or change anything above here. Work on your changes below. -->
-
-# Repositories List
 
 - [Virtual Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 - [Virtual Coffee / podcast transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)

@@ -33,7 +33,8 @@ We recommend you work on the changes in your local environment because most of t
 
 ### 1. Fork this repository
 
-Click the `fork` button at the top of the front page. <br>
+Click the `fork` button at the top of the front page.
+
 Forking is a process to create a copy of this repository in your GitHub account. You always want to remember to fork a repository before cloning it.
 
 ### 2. Clone the repository in your local machine
@@ -179,6 +180,7 @@ Merge conflicts usually occur when changes are on the same line(s), in the same 
 
 - Virtual Coffee's Git & GitHub 101 guide to [resolving merge conflicts](https://virtualcoffee.io/resources/developer-resources/open-source/git-101#resolve-merge-conflicts).
 - [Resolving a merge conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).
+- [How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code](https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/)
 
 ### Walkthrough Video
 

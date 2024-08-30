@@ -31,13 +31,25 @@ There are two types of contributions to this repo:
 
 We recommend you work on the changes in your local environment because most of the contribution process requires you to do so rather than directly on GitHub.
 
-### 1. Fork this repository
+### 1. Create an issue
+
+1. Click the `Issues` tab at the top.
+2. Click the green `New issue` button.
+3. Click the `Get started` button next to the `➕ Add participants` to add yourself as a Preptember participant or `📃 Add repositories` to add repositories to the list.
+4. Edit the title and complete the issue form.
+5. Click the green `Submit new issue` button at the bottom.
+
+#### Additional Resources
+
+- [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5)
+
+### 2. Fork this repository
 
 Click the `fork` button at the top of the front page.
 
 Forking is a process to create a copy of this repository in your GitHub account. You always want to remember to fork a repository before cloning it.
 
-### 2. Clone the repository in your local machine
+### 3. Clone the repository in your local machine
 
 Clone a repository means copying the remote repository into your local machine.
 
@@ -67,19 +79,19 @@ Clone a repository means copying the remote repository into your local machine.
 
 Remember that you always want to work on and push your changes into the forked repository, not the original one.
 
-### 3. Create a branch
+### 4. Create a branch
 
 A branch is an isolated environment to work on and save your changes. Later on, you will push this branch to the remote repository after you finish working on your changes.
 
 Run the following command to create a branch:
 
 ```bash
-git checkout -b working-branch-name
+git checkout -b BRANCH-NAME
 ```
 
 You can name the branch anything you want — for example, `alice-add-profile`.
 
-### 4. Work on changes
+### 5. Work on changes
 
 #### 🌱 Practicing Open Source
 
@@ -111,7 +123,7 @@ You can name the branch anything you want — for example, `alice-add-profile`.
    - [Virtual Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
    ```
 
-### 5. Add your changes
+### 6. Add your changes
 
 After you finish working on your changes, you must add them first. Adding changes means moving them into the staging area, where they will be ready to be saved (committed).
 
@@ -123,7 +135,7 @@ git add .
 
 This command will add all files with changes to the staging area.
 
-### 6. Commit your changes
+### 7. Commit your changes
 
 Now, it's time to commit the changes. Committing changes means saving your changes.
 
@@ -147,21 +159,21 @@ When you make changes in an existing file, you can add and commit them all toget
 git commit -am "Your message"
 ```
 
-### 7. Push your changes
+### 8. Push your changes
 
 You want to push your changes to your remote (forked) repository. Run this command in your terminal:
 
 ```bash
-git push -u origin your-branch-name
+git push -u origin YOUR-BRANCH-NAME
 ```
 
-Change `your-branch-name` with the name of your working branch. For example:
+Change `YOUR-BRANCH-NAME` with the name of your working branch. For example:
 
 ```bash
 git push -u origin alice-add-profile
 ```
 
-### 8. Create a pull request (PR)
+### 9. Create a pull request (PR)
 
 1. Go to your forked repository on GitHub.
 
@@ -189,12 +201,10 @@ Merge conflicts usually occur when changes are on the same line(s), in the same 
 
 https://github.com/Virtual-Coffee/vc-preptember/assets/45172775/55a4e380-7b8b-4a36-a843-95237e66d4db
 
-You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you 💙!
-
-**Note**:
-
-- We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
-- For this contribution, we recommend you _accept both changes_.
+> [!TIP]
+> - You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you 💙!
+> - We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
+> - For this contribution, we recommend you _accept both changes_.
 
 ## Awaiting Review
 

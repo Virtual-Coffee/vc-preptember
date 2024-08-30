@@ -15,7 +15,7 @@ We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very se
 If you're new to open source, check out the resources below to help you familiarize yourself with open source:
 
 - [Virtual Coffee's Guide to Open Source](https://virtualcoffee.io/resources/developer-resources/open-source)
-- [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
+- [Intro to Open Source with OpenSauced](https://opensauced.pizza/learn/intro-to-oss)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Git Guides](https://github.com/git-guides)
 

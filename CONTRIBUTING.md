@@ -87,13 +87,13 @@ You can name the branch anything you want — for example, `alice-add-profile`.
 2. Add yourself to the file in this format:
 
    ```markdown
-   - [Your name](link to your GitHub profile) | your favorite coffee or drink
+   - [Your name](link to your GitHub profile) | your favorite thing
    ```
 
    For example:
 
    ```markdown
-   - [User Name](https://github.com/username) | Expresso
+   - [User Name](https://github.com/username) | Favorite thing
    ```
 
 #### 📃 Repositories List
@@ -173,7 +173,7 @@ git push -u origin alice-add-profile
 
 And that's it! Congratulations on your first contribution to this repo! 🎉
 
-## Resolve merge conflicts
+## Resolve Merge Conflicts
 
 You might encounter merge conflicts. When you encounter merge conflicts, you need to resolve them before your pull request can be merged into the `main` branch to avoid collision.
 

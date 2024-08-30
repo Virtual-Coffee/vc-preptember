@@ -10,7 +10,7 @@ Welcome to the contributing guide for Virtual Coffee's Preptember repo! Thank yo
 
 We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very seriously, and all contributors must abide by it. Let’s treat each other with respect, and remember, we are all people who care and are trying. If you believe someone has violated the Code of Conduct, please fill out our [CoC Violation Form](https://virtualcoffee.io/report-coc-violation/), which you can do anonymously.
 
-## New contributors
+## New Contributors
 
 If you're new to open source, check out the resources below to help you familiarize yourself with open source:
 
@@ -19,13 +19,13 @@ If you're new to open source, check out the resources below to help you familiar
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Git Guides](https://github.com/git-guides)
 
-## Contribution type
+## Contribution Type
 
 There are two types of contributions to this repo:
 
 1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite cake or snack to the `preptember-participants.md` file.
 
-2. 📃 **Repositories List** — Add the link to a repository(ies) you recommend for Hackoberfest to the `repositories-list.md` file _only_ after the repository meets our requirements — check our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist). You can always return and add more repositories here.
+2. 📃 **Repositories List** — Add the link to a repository(ies) you recommend for Hacktoberfest to the `repositories-list.md` file _only_ after the repository meets our requirements — check our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist). You can always return and add more repositories here.
 
 ## Getting Started
 
@@ -163,7 +163,10 @@ git push -u origin alice-add-profile
 
 ### 8. Create a pull request (PR)
 
-1. Go to your forked repository on GitHub. <br> To ensure you're on the forked repo, look at the repo name on the top left beside the GitHub logo. It should have your GitHub username in the beginning: `your-username / repository-name`.
+1. Go to your forked repository on GitHub.
+
+   To ensure you're on the forked repo, look at the repo name on the top left beside the GitHub logo. It should have your GitHub username in the beginning: `your-username / repository-name`.
+
 2. Click the `Compare & pull request` green button on the top.
 3. Fill in the pull request form.
 4. Click the green `Create pull request` button on the bottom.

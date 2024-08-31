@@ -8,9 +8,9 @@
 Clearly describe what the project does and is for.
 ✅ Relevant tags
 They should highlight their scope, stack, field, etc.
-✅ README.md file
+✅ README file
 Important information about your project.
-✅ CONTRIBUTIONS.md/CONTRIBUTING.md file
+✅ CONTRIBUTING file
 A contribution guide for contributors.
 ✅ Open source license
 A project is not open source if it doesn't have a valid license.

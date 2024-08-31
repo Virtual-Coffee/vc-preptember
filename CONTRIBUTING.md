@@ -21,7 +21,7 @@ If you're new to open source, check out the resources below to help you familiar
 
 ## Contribution Type
 
-There are two types of contributions to this repo:
+You can make two types of contributions to this repo:
 
 1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite cake or snack to the `preptember-participants.md` file.
 
@@ -49,7 +49,7 @@ Click the `fork` button at the top of the front page.
 
 Forking is a process to create a copy of this repository in your GitHub account. You always want to remember to fork a repository before cloning it.
 
-### 3. Clone the repository in your local machine
+### 3. Clone the repository
 
 Clone a repository means copying the remote repository into your local machine.
 
@@ -86,7 +86,7 @@ A branch is an isolated environment to work on and save your changes. Later on, 
 Run the following command to create a branch:
 
 ```bash
-git checkout -b BRANCH-NAME
+git checkout -b YOUR-BRANCH-NAME
 ```
 
 You can name the branch anything you want — for example, `alice-add-profile`.
@@ -202,7 +202,7 @@ Merge conflicts usually occur when changes are on the same line(s), in the same 
 https://github.com/Virtual-Coffee/vc-preptember/assets/45172775/55a4e380-7b8b-4a36-a843-95237e66d4db
 
 > [!TIP]
-> - You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you 💙!
+> - You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you! 💙
 > - We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
 > - For this contribution, we recommend you _accept both changes_.
 

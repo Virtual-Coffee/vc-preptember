@@ -12,7 +12,7 @@ We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very se
 
 ## New Contributors
 
-If you're new to open source, check out the resources below to help you familiarize yourself with open source:
+If you're new to open source, check out the resources below to help you familiarize yourself with Git, GitHub, and the contribution flow:
 
 - [Virtual Coffee's Guide to Open Source](https://virtualcoffee.io/resources/developer-resources/open-source)
 - [Intro to Open Source with OpenSauced](https://opensauced.pizza/learn/intro-to-oss)
@@ -23,9 +23,18 @@ If you're new to open source, check out the resources below to help you familiar
 
 You can make two types of contributions to this repo:
 
-1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite cake or snack to the `preptember-participants.md` file.
+### 1. 🌱 **Practicing Open Source**
 
-2. 📃 **Repositories List** — Add the link to a repository(ies) you recommend for Hacktoberfest to the `repositories-list.md` file _only_ after the repository meets our requirements — check our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist). You can always return and add more repositories here.
+Add your name, link to your GitHub profile, and your favorite thing to the `preptember-participants.md` file.
+
+> [!NOTE]
+> For 2024, the favorite thing is **cake or snack**.
+
+### 2. 📃 **Repositories List**
+
+Add the name and link to a repository you recommend for Hacktoberfest to the `repositories-list.md` file. Do this **_only after_** the repository meets our requirements — see our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist).
+
+You can add multiple repositories here and you can always make another pull request if you have more for us later in the month!
 
 ## Getting Started
 
@@ -202,6 +211,7 @@ Merge conflicts usually occur when changes are on the same line(s), in the same 
 https://github.com/Virtual-Coffee/vc-preptember/assets/45172775/55a4e380-7b8b-4a36-a843-95237e66d4db
 
 > [!TIP]
+>
 > - You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you! 💙
 > - We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
 > - For this contribution, we recommend you _accept both changes_.

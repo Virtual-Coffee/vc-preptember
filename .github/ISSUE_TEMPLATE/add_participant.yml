@@ -1,0 +1,23 @@
+name: ➕ Add participants
+description: Add participants to vc-preptember
+title: "Feature: Add <YOUR-NAME> as a Preptember Participant"
+labels: [💡 feature]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please describe the issue — for example, "For the VC Preptember challenge, I want to add myself as a participant."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested solution
+      description: Suggest a solution — for example, "Add <YOUR-NAME> as a participant."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://virtualcoffee.io/code-of-conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

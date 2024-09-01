@@ -10,33 +10,55 @@ Welcome to the contributing guide for Virtual Coffee's Preptember repo! Thank yo
 
 We take our [Code of Conduct](https://virtualcoffee.io/code-of-conduct/) very seriously, and all contributors must abide by it. Let’s treat each other with respect, and remember, we are all people who care and are trying. If you believe someone has violated the Code of Conduct, please fill out our [CoC Violation Form](https://virtualcoffee.io/report-coc-violation/), which you can do anonymously.
 
-## New contributors
+## New Contributors
 
-If you're new to open source, check out the resources below to help you familiarize yourself with open source:
+If you're new to open source, check out the resources below to help you familiarize yourself with Git, GitHub, and the contribution flow:
 
 - [Virtual Coffee's Guide to Open Source](https://virtualcoffee.io/resources/developer-resources/open-source)
-- [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
+- [Intro to Open Source with OpenSauced](https://opensauced.pizza/learn/intro-to-oss)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Git Guides](https://github.com/git-guides)
 
-## Contribution type
+## Contribution Type
 
-There are two types of contributions to this repo:
+You can make two types of contributions to this repo:
 
-1. 🌱 **Practicing Open Source** — Add your name, link to your GitHub profile, and your favorite coffee (or any other drink you like!) to the `preptember-participants.md` file.
+### 1. 🌱 **Practicing Open Source**
 
-2. 📃 **Repositories List** — Add the link to a repository(ies) you recommend for Hackoberfest to the `repositories-list.md` file _only_ after the repository meets our requirements — check our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist). You can always return and add more repositories here.
+Add your name, link to your GitHub profile, and your favorite thing to the `preptember-participants.md` file.
+
+> [!NOTE]
+> For 2024, the favorite thing is **cake or snack**.
+
+### 2. 📃 **Repositories List**
+
+Add the name and link to a repository you recommend for Hacktoberfest to the `repositories-list.md` file. Do this **_only after_** the repository meets our requirements — see our [repository checklist](https://virtualcoffee.io/resources/developer-resources/open-source/maintainer-guide#repository-checklist).
+
+You can add multiple repositories here and you can always make another pull request if you have more for us later in the month!
 
 ## Getting Started
 
 We recommend you work on the changes in your local environment because most of the contribution process requires you to do so rather than directly on GitHub.
 
-### 1. Fork this repository
+### 1. Create an issue
 
-Click the `fork` button at the top of the front page. <br>
+1. Click the `Issues` tab at the top.
+2. Click the green `New issue` button.
+3. Click the `Get started` button next to the `➕ Add participants` to add yourself as a Preptember participant or `📃 Add repositories` to add repositories to the list.
+4. Edit the title and complete the issue form.
+5. Click the green `Submit new issue` button at the bottom.
+
+#### Additional Resources
+
+- [Streamline Your Contributions: Mastering Issue Forms and PR Templates](https://dev.to/opensauced/streamline-your-contributions-mastering-issue-forms-and-pr-templates-36j5)
+
+### 2. Fork this repository
+
+Click the `fork` button at the top of the front page.
+
 Forking is a process to create a copy of this repository in your GitHub account. You always want to remember to fork a repository before cloning it.
 
-### 2. Clone the repository in your local machine
+### 3. Clone the repository
 
 Clone a repository means copying the remote repository into your local machine.
 
@@ -66,19 +88,19 @@ Clone a repository means copying the remote repository into your local machine.
 
 Remember that you always want to work on and push your changes into the forked repository, not the original one.
 
-### 3. Create a branch
+### 4. Create a branch
 
 A branch is an isolated environment to work on and save your changes. Later on, you will push this branch to the remote repository after you finish working on your changes.
 
 Run the following command to create a branch:
 
 ```bash
-git checkout -b working-branch-name
+git checkout -b YOUR-BRANCH-NAME
 ```
 
 You can name the branch anything you want — for example, `alice-add-profile`.
 
-### 4. Work on changes
+### 5. Work on changes
 
 #### 🌱 Practicing Open Source
 
@@ -86,13 +108,13 @@ You can name the branch anything you want — for example, `alice-add-profile`.
 2. Add yourself to the file in this format:
 
    ```markdown
-   - [Your name](link to your GitHub profile) | your favorite coffee or drink
+   - [Your name](link to your GitHub profile) | your favorite thing
    ```
 
    For example:
 
    ```markdown
-   - [User Name](https://github.com/username) | Expresso
+   - [User Name](https://github.com/username) | Favorite thing
    ```
 
 #### 📃 Repositories List
@@ -110,7 +132,7 @@ You can name the branch anything you want — for example, `alice-add-profile`.
    - [Virtual Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
    ```
 
-### 5. Add your changes
+### 6. Add your changes
 
 After you finish working on your changes, you must add them first. Adding changes means moving them into the staging area, where they will be ready to be saved (committed).
 
@@ -122,7 +144,7 @@ git add .
 
 This command will add all files with changes to the staging area.
 
-### 6. Commit your changes
+### 7. Commit your changes
 
 Now, it's time to commit the changes. Committing changes means saving your changes.
 
@@ -146,30 +168,33 @@ When you make changes in an existing file, you can add and commit them all toget
 git commit -am "Your message"
 ```
 
-### 7. Push your changes
+### 8. Push your changes
 
 You want to push your changes to your remote (forked) repository. Run this command in your terminal:
 
 ```bash
-git push -u origin your-branch-name
+git push -u origin YOUR-BRANCH-NAME
 ```
 
-Change `your-branch-name` with the name of your working branch. For example:
+Change `YOUR-BRANCH-NAME` with the name of your working branch. For example:
 
 ```bash
 git push -u origin alice-add-profile
 ```
 
-### 8. Create a pull request (PR)
+### 9. Create a pull request (PR)
 
-1. Go to your forked repository on GitHub. <br> To ensure you're on the forked repo, look at the repo name on the top left beside the GitHub logo. It should have your GitHub username in the beginning: `your-username / repository-name`.
+1. Go to your forked repository on GitHub.
+
+   To ensure you're on the forked repo, look at the repo name on the top left beside the GitHub logo. It should have your GitHub username in the beginning: `your-username / repository-name`.
+
 2. Click the `Compare & pull request` green button on the top.
 3. Fill in the pull request form.
 4. Click the green `Create pull request` button on the bottom.
 
 And that's it! Congratulations on your first contribution to this repo! 🎉
 
-## Resolve merge conflicts
+## Resolve Merge Conflicts
 
 You might encounter merge conflicts. When you encounter merge conflicts, you need to resolve them before your pull request can be merged into the `main` branch to avoid collision.
 
@@ -179,17 +204,17 @@ Merge conflicts usually occur when changes are on the same line(s), in the same 
 
 - Virtual Coffee's Git & GitHub 101 guide to [resolving merge conflicts](https://virtualcoffee.io/resources/developer-resources/open-source/git-101#resolve-merge-conflicts).
 - [Resolving a merge conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).
+- [How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code](https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/)
 
 ### Walkthrough Video
 
 https://github.com/Virtual-Coffee/vc-preptember/assets/45172775/55a4e380-7b8b-4a36-a843-95237e66d4db
 
-You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you 💙!
-
-**Note**:
-
-- We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
-- For this contribution, we recommend you _accept both changes_.
+> [!TIP]
+>
+> - You can always ask for help in the `#open-source` or `#help-and-pairing` channel in Slack. We're here to help you! 💙
+> - We recommend resolving the merge conflicts in your local environment rather than directly on GitHub.
+> - For this contribution, we recommend you _accept both changes_.
 
 ## Awaiting Review
 

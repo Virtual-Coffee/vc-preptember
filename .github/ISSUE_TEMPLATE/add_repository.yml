@@ -1,0 +1,23 @@
+name: 📃 Add repositories
+description: Add repositories to vc-preptember
+title: "Feature: Add <REPOSITORY-NAME> to the Repositories List"
+labels: [💡 feature]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please describe the issue — for example, "For the VC Preptember challenge, I want to add repositories I recommend for Hacktoberfest."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested solution
+      description: Suggest a solution — for example, "Add <REPOSITORY-NAME> to the recommended repositories for Hacktoberfest."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://virtualcoffee.io/code-of-conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

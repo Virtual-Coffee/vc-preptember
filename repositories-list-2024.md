@@ -24,3 +24,5 @@ Templates for making issues and pull requests.
 
 - [virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 - [Virtual Coffee Podcast Transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
+- [Codecademy Docs](https://github.com/Codecademy/docs)
+- [LinksHub](https://github.com/LinksHub)

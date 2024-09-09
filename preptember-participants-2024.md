@@ -6,3 +6,4 @@
 
 - [Ayu Adiati](https://github.com/adiati98) | Black Forest cake
 - [Christine Belzie](https://github.com/CBID2) | Red Velvet cake
+- [Meg Gutshall](https://github.com/meg-gutshall) | ICE CREAM!!!! 🍨🍨

@@ -8,3 +8,4 @@
 - [Christine Belzie](https://github.com/CBID2) | Red Velvet cake
 - [Meg Gutshall](https://github.com/meg-gutshall) | ICE CREAM!!!! 🍨🍨
 - [Micha Rodriguez](https://github.com/michaella23) | Cherries 🍒😊
+- [Pat Smith](https://github.com/patasmith) | Yellow cake with chocolate icing

@@ -1,6 +1,6 @@
-## Slack Handle
+## Slack Display Name
 
- <!-- Please provide your Slack handle at Virtual Coffee for us to confirm. -->
+ <!-- Please provide your Slack Display Name at Virtual Coffee for us to confirm. -->
 
 > [!Warning]
 > Only PRs from existing Virtual Coffee members will be accepted.

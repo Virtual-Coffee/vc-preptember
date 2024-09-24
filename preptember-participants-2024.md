@@ -12,3 +12,4 @@
 - [BekahHW](https://github.com/BekahHW) | Tiramisu
 - [Danielle Andrews](https://github.com/DrAcula27) | Cookie Cake 🍪
 - [Alicia Bendz](https://github.com/albendz) | Tres Leches
+- [David Akim](https://github.com/david-001) | Internet 🔗🌐

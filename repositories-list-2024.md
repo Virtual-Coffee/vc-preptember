@@ -28,3 +28,4 @@ Templates for making issues and pull requests.
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
 - [OpenSauced Learning Path](https://github.com/open-sauced/intro)
 - [OpenSauced Pizza Verse](https://github.com/open-sauced/pizza-verse)
+- [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)

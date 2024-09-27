@@ -14,3 +14,4 @@
 - [Alicia Bendz](https://github.com/albendz) | Tres Leches
 - [Silvia Reyes](https://github.com/NathaliaReyes) | Genoese 🎂
 - [David Akim](https://github.com/david-001) | Internet 🔗🌐
+- [Dominic Duffin](https://github.com/dominicduffin1) | White Chocolate & Raspberry

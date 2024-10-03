@@ -28,4 +28,7 @@ Templates for making issues and pull requests.
 - [LinksHub](https://github.com/rupali-codes/LinksHub)
 - [OpenSauced Learning Path](https://github.com/open-sauced/intro)
 - [OpenSauced Pizza Verse](https://github.com/open-sauced/pizza-verse)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues/56170) - [Hacktoberfest tracking issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/56170)
+- [Evidently LLM Monitoring](https://github.com/evidentlyai/evidently)
+- [Ethereum website](https://github.com/ethereum/ethereum-org-website)
 - [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)

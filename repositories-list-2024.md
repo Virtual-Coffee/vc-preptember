@@ -31,3 +31,4 @@ Templates for making issues and pull requests.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues/56170) - [Hacktoberfest tracking issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/56170)
 - [Evidently LLM Monitoring](https://github.com/evidentlyai/evidently)
 - [Ethereum website](https://github.com/ethereum/ethereum-org-website)
+- [Python Turtle Art Canvas](https://github.com/dominicduffin1/python-turtle-art-canvas)

@@ -11,3 +11,7 @@
 - [Pat Smith](https://github.com/patasmith) | Yellow cake with chocolate icing
 - [BekahHW](https://github.com/BekahHW) | Tiramisu
 - [Danielle Andrews](https://github.com/DrAcula27) | Cookie Cake 🍪
+- [Alicia Bendz](https://github.com/albendz) | Tres Leches
+- [Silvia Reyes](https://github.com/NathaliaReyes) | Genoese 🎂
+- [David Akim](https://github.com/david-001) | Internet 🔗🌐
+- [Dominic Duffin](https://github.com/dominicduffin1) | White Chocolate & Raspberry

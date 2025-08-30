@@ -25,10 +25,7 @@ You can make two types of contributions to this repo:
 
 ### 1. 🌱 **Practicing Open Source**
 
-Add your name, link to your GitHub profile, and your favorite thing to the `preptember-participants.md` file.
-
-> [!NOTE]
-> For 2024, the favorite thing is **cake or snack**.
+Add your name, link to your GitHub profile, and your {favorite thing} to the `preptember-participants.md` file. Please read the comment in the file to find out what is the {favorite thing} of the year.
 
 ### 2. 📃 **Repositories List**
 

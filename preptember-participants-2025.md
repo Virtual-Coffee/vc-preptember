@@ -5,3 +5,4 @@
 <!-- Please don't type or change anything above here. Work on your changes below. -->
 
 - [Ayu Adiati](https://github.com/adiati98) | "The Subtle Art of Not Giving a Fuck" by Mark Manson
+- [Sara Baqla](https://github.com/missatrox44) | "The Measure" by Nikki Erlick

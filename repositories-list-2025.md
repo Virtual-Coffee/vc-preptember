@@ -23,3 +23,4 @@ Templates for making issues and pull requests.
  <!-- Please don't type or change anything above here. Work on your changes below. -->
 
 - [virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- [Hacktoberfest HOWTO blog](https://github.com/hacktoberfesthowto/howto-blog)

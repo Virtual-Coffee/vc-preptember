@@ -24,3 +24,7 @@ Templates for making issues and pull requests.
 
 - [virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 - [Hacktoberfest HOWTO blog](https://github.com/hacktoberfesthowto/howto-blog)
+- [RepoReady](https://github.com/OpenSource-Communities/RepoReady)
+- [VC Community Docs](https://github.com/Virtual-Coffee/VC-Community-Docs)
+- [Intro to Open Source and Becoming a Maintainer Courses](https://github.com/OpenSource-Communities/intro)
+- [Continue](https://github.com/continuedev/continue/)

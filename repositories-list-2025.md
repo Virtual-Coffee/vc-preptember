@@ -28,3 +28,6 @@ Templates for making issues and pull requests.
 - [VC Community Docs](https://github.com/Virtual-Coffee/VC-Community-Docs)
 - [Intro to Open Source and Becoming a Maintainer Courses](https://github.com/OpenSource-Communities/intro)
 - [Continue](https://github.com/continuedev/continue/)
+- [Mautic User Docs](https://github.com/mautic/user-documentation)
+- [Mautic Low/No Code](https://github.com/mautic/low-no-code)
+- [Mautic Community Handbook](https://github.com/mautic/mautic-community-handbook)
